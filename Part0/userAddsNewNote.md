@@ -1,7 +1,7 @@
 title User adds new note
 
 note over Browser:
-Button is clicked
+When button is clicked
 end note
 
 Browser->Server: Sending the user input to the server: HTTP POST https://studies.cs.helsinki.fi/exampleapp/notes
